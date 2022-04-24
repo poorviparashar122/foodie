@@ -1,0 +1,242 @@
+[
+    {
+    "id":1,
+    "name":"Barbeque Nation",
+    "img":"https://d4t7t8y8xqo0t.cloudfront.net/app//resized/720X280/restaurant/662361/restaurant020190312115910.jpg",
+    "reting":"4.5",
+    "payment_method":{"cash":"","online":"","borth":"true"},
+    "categories":"Cuisine Multicuisine,Barbeque",
+    "total_votes":"768",
+    "reviews":"251",
+    "cost_for_two":"400"
+    },
+    
+    {
+        "id":2,
+        "name":"The Traveller Cafe",
+        "img":"https://d4t7t8y8xqo0t.cloudfront.net/app//resized/720X280/restaurant/682476/restaurant020220107092518.jpg",
+        "reting":"3.7",
+        "payment_method":{"cash":"","online":"","borth":"true"},
+        "categories":"Cuisine Multicuisine",
+        "total_votes":"56",
+        "reviews":"5",
+        "cost_for_two":"800"
+        },
+        
+    {
+        "id":3,
+        "name":"INOX",
+        "img":"https://d4t7t8y8xqo0t.cloudfront.net/app//resized/720X280/group/6261/menu020210813105104.jpg",
+        "reting":"4.8",
+        "payment_method":{"cash":"","online":"","borth":"true"},
+        "categories":"Cuisine Multicuisine",
+        "total_votes":"45",
+        "reviews":"4",
+        "cost_for_two":"500"
+        },
+        
+    {
+        "id":4,
+        "name":"Burger king",
+        "img":"https://d4t7t8y8xqo0t.cloudfront.net/app//resized/720X280/restaurant/662224/0.png",
+        "reting":"3.8",
+        "payment_method":{"cash":"","online":"","borth":"true"},
+        "categories":"Cuisine Multicuisine",
+        "total_votes":"678",
+        "reviews":"134",
+        "cost_for_two":"300"
+        },
+        
+    {
+        "id":5,
+        "name":"Maa Cold Coco & Fruit Salad",
+        "img":"https://b.zmtcdn.com/data/pictures/3/19009893/4f66071e33d6ab881dcefb915b829ac1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"2.8",
+        "payment_method":{"cash":"","online":"","borth":"true"},
+        "categories":"Beverages, Shake",
+        "total_votes":"7678",
+        "reviews":"6345",
+        "cost_for_two":"200"
+        },
+        
+    {
+        "id":6,
+        "name":"Leonardo Italian Mediterranean Dining",
+        "img":"https://media-cdn.tripadvisor.com/media/photo-s/05/4a/42/72/berry-panna-cotta.jpg",
+        "reting":"4.5",
+        "payment_method":[{"cash":""},{"online":""},{"borth":"true"}],
+        "categories":"Cuisine Multicuisine",
+        "total_votes":"567",
+        "reviews":"291",
+        "cost_for_two":"600"
+        },
+        
+    {
+        "id":7,
+        "name":"Vegji's",
+        "img":"https://b.zmtcdn.com/data/pictures/7/18589557/5df923faa12e7bd58e8b7cc842d44068.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.6",
+        "payment_method":{"cash":"","online":"","borth":"true"},
+        "categories":"Fast Food, Sandwich, Lebanese, Beverages",
+        "total_votes":"678",
+        "reviews":"587",
+        "cost_for_two":"400"
+        },
+        
+    {
+        "id":8,
+        "name":"Jakaas Chinese Food",
+        "img":"https://b.zmtcdn.com/data/pictures/chains/2/18609962/a522cbf000ca430a8e262818982a05ae.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.4",
+        "payment_method":{"cash":"true","online":"","borth":""},
+        "categories":"Chinese",
+        "total_votes":"511",
+        "reviews":"1456",
+        "cost_for_two":"200"
+        },
+        
+    {
+        "id":9,
+        "name":"Kansar Gujarati Thali",
+        "img":"https://b.zmtcdn.com/data/pictures/2/3800002/e506f569f70410ea80702a31e642f14b.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"5",
+        "payment_method":{"cash":"true","online":"","borth":""},
+        "categories":"Gujarati",
+        "total_votes":"9876",
+        "reviews":"1112",
+        "cost_for_two":"400"
+        },
+        
+    {
+        "id":10,
+        "name":"Thalaivaa",
+        "img":"https://b.zmtcdn.com/data/pictures/chains/0/18396610/65cd1ee5882c45d5a4d5e907d4631c4b.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"1.7",
+        "payment_method":{"cash":"true","online":"","borth":""},
+        "categories":"South Indian, Desserts, Beverages",
+        "total_votes":"778",
+        "reviews":"878",
+        "cost_for_two":"300"
+        },
+        
+    {
+        "id":11,
+        "name":"Shree Sainath Snacks Stall",
+        "img":"https://b.zmtcdn.com/data/pictures/5/3800525/8b2757b34a9586bd5161aa35f5e893bb.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"1.6",
+        "payment_method":{"cash":"true","online":"","borth":""},
+        "categories":"South Indian",
+        "total_votes":"567",
+        "reviews":"789",
+        "cost_for_two":"300"
+        },
+        
+    {
+        "id":12,
+        "name":"Bollywood Biryani Company - BBC",
+        "img":"https://b.zmtcdn.com/data/pictures/chains/0/18651670/3670675488828f374e9df3e820895de1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"2.2",
+        "payment_method":{"cash":"true","online":"","borth":""},
+        "categories":"North Indian, Mughlai, Biryani, Beverages",
+        "total_votes":"654",
+        "reviews":"678",
+        "cost_for_two":"432"
+        },
+        
+    {
+        "id":13,
+        "name":"Dilliwale Pahelvanjee's Cholle Bhature",
+        "img":"https://b.zmtcdn.com/data/pictures/6/18864896/fb35b15dcfd3a22890dee85f464bc515.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"2.5",
+        "payment_method":{"cash":"true","online":"","borth":""},
+        "categories":"North Indian, Fast Food",
+        "total_votes":"567",
+        "reviews":"678",
+        "cost_for_two":"300"
+        },
+        
+    {
+        "id":14,
+        "name":"Mahalaxmi Juice & Fastfood",
+        "img":"https://b.zmtcdn.com/data/pictures/0/3800420/487894b711cb92e3c008f6d531fe51dc.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"3.3",
+        "payment_method":{"cash":"","online":"true","borth":""},
+        "categories":"Sandwich, Fast Food, Beverages, Shake",
+        "total_votes":"1456",
+        "reviews":"1567",
+        "cost_for_two":"300"
+        },
+        
+    {
+        "id":15,
+        "name":"The Hog Spot Café",
+        "img":"https://b.zmtcdn.com/data/pictures/7/3800437/2730ce8190ccef6bd019ac9e0008facc.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"3.6",
+        "payment_method":[{"cash":""},{"online":"true"},{"borth":""}],
+        "categories":"Continental, Mexican, Pizza, Beverages",
+        "total_votes":"345",
+        "reviews":"456",
+        "cost_for_two":"456"
+        },
+        
+    {
+        "id":16,
+        "name":"Geetha Refreshment",
+        "img":"https://b.zmtcdn.com/data/pictures/0/3800150/c96a48b0f71260a39d0b7d721f07fc70.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.0",
+        "payment_method":{"cash":"","online":"true","borth":""},
+        "categories":"North Indian, Fast Food, Desserts, Beverages",
+        "total_votes":"478",
+        "reviews":"543",
+        "cost_for_two":"245"
+        },
+        
+    {
+        "id":17,
+        "name":"Leonardo Italian Mediterranean Dining",
+        "img":"https://b.zmtcdn.com/data/pictures/0/3800000/b0c78f4d35a71ca6e2e08a1575170c06.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.1",
+        "payment_method":{"cash":"","online":"true","borth":""},
+        "categories":"Italian, Mexican, Fast Food, Mediterranean",
+        "total_votes":"457",
+        "reviews":"682",
+        "cost_for_two":"356"
+        },
+        
+    {
+        "id":18,
+        "name":"Meraki The Coffee House",
+        "img":"https://b.zmtcdn.com/data/pictures/6/3800866/b1698698c0a3e8d004078c479ad632b7.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.7",
+        "payment_method":{"cash":"","online":"true","borth":""},
+        "categories":"Cafe, Desserts, Beverages",
+        "total_votes":"634",
+        "reviews":"756",
+        "cost_for_two":"356"
+        },
+        
+    {
+        "id":19,
+        "name":"3Seventy Kitchen",
+        "img":"https://b.zmtcdn.com/data/pictures/5/3800605/1cfa8d1544691f531d6c9c145005eb3c.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.6",
+        "payment_method":{"cash":"","online":"true","borth":""},
+        "categories":"North Indian, Chinese, Continental, Desserts, Beverages",
+        "total_votes":"456",
+        "reviews":"765",
+        "cost_for_two":"350"
+        },
+        
+    {
+        "id":20,
+        "name":"Golden Dragon",
+        "img":"https://b.zmtcdn.com/data/reviews_photos/b85/60c04f29dbf36f6a5a10d0cc8d2b1b85_1542613186.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "reting":"4.4",
+        "payment_method":{"cash":"","online":"true","borth":""},
+        "categories":"Chinese, Seafood",
+        "total_votes":"592",
+        "reviews":"789",
+        "cost_for_two":"300"
+        }
+
+]
