@@ -4,6 +4,7 @@ A restaurant react app made by using  react tools and html and css.
 
 <p></p>I cloned few pages like add data, landing page, products display page and payment pages.
 <h3>Netlify Link</h3>
+<p>https://amazing-syrniki-7796f0.netlify.app/</p>
 <p>We cloned few pages like landing page, products page, products display page, login & signup page and also cart and checkout pages.</p>
 <h3>TeachStack used</h3>
 <ui>
